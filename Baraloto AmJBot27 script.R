@@ -142,7 +142,7 @@ df <- rev_df %>%
       Family, Order,
       ATDN_ind_n, ATDN_spp_n, REDGEN_N_n,
       REDGEN_spp_n, Ntrop_spp_n, Global_spp_n,
-      Eco_Score, Combined, Combined_Rank
+      Eco_Score, Combined
     ),
     by = "Family"
   ) %>%
