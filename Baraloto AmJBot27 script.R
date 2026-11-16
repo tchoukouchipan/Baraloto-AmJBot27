@@ -5,7 +5,7 @@
 #
 # AUTHOR:  Christopher Baraloto / ICTB  <cbaraloto@fiu.edu>
 # CREATED: May 2026; revised November 2026
-# ZENODO:  [DOI to be added after deposit]
+# ZENODO:  https://doi.org/10.5281/zenodo.24283494
 #
 # INPUT:  Appendix S1.xlsx (deposited with this script; two sheets)
 #   Sheet 1 "Rankings & Revenue" — revenue, sector scores, economic rank

@@ -4,6 +4,8 @@
 
 *American Journal of Botany*, 2027 — DOI: [to be added after publication]
 
+**Code and data:** https://doi.org/10.5281/zenodo.24283494
+
 ---
 
 ## Overview
@@ -66,6 +68,8 @@ Thresholds were identified by natural-break analysis of score distributions. See
 ## Citation
 
 Baraloto, C. 2027. Revisiting Gentry's Neotropical plant family importance after 40 years. *American Journal of Botany* [volume/pages]. DOI: [to be added]
+
+Code and data: https://doi.org/10.5281/zenodo.24283494
 
 ## License
 
